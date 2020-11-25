@@ -1,0 +1,1 @@
+# Template for a flask server and svelte-built client
